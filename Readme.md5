@@ -1,0 +1,9 @@
+-- Website craw : http://www.nettruyen.com/
+-- Example url format : http://www.nettruyen.com/truyen-tranh/chua-te-hoc-duong-44461
+-- Usage: python -m main.py [name] [url] [start] [total]]
+    - Name: Name of output file
+    - Url: as example url 
+    - Start: chapter start 
+    - Total: Total chapter combined counting from start 
+
+-- Output Path : .\data\output\Name.pdf
