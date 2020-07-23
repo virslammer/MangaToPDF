@@ -4,7 +4,7 @@ from pdf import MangaToPDF
 from config import INPUT_DIR
 
 def help_message():
-    print("Usage:python -m main.py [name] [url] [start] [total] [make_pdf[default:True]]")
+    print("Usage:python -m main.py [name] [url] [start] [total]")
     print("name: name of output file")
     print("url: a valid url of a manga from Nettruyen.com , exp : http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap-55201")
     print("start: chapter start")
